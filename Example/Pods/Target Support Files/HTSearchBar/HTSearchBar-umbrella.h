@@ -10,7 +10,6 @@
 #endif
 #endif
 
-#import "MPHomeCustomSearchBar.h"
 
 FOUNDATION_EXPORT double HTSearchBarVersionNumber;
 FOUNDATION_EXPORT const unsigned char HTSearchBarVersionString[];

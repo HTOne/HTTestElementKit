@@ -2,15 +2,15 @@ PODS:
   - HTSearchBar (0.1.0)
 
 DEPENDENCIES:
-  - HTSearchBar (from `../`)
+  - HTSearchBar (~> 0.1.0)
 
-EXTERNAL SOURCES:
-  HTSearchBar:
-    :path: "../"
+SPEC REPOS:
+  https://github.com/HTOne/HTSpecs.git:
+    - HTSearchBar
 
 SPEC CHECKSUMS:
-  HTSearchBar: ef037d88571be6ad7bad133da25e626f491aa284
+  HTSearchBar: d1f05469151238f08b1e002864912aa2badbc52f
 
-PODFILE CHECKSUM: 200b8cca32c53ee482bb8b7c17796ab0158f1fa8
+PODFILE CHECKSUM: 1a4c6495477ce46df9b08f70efdd6ca0fde9e392
 
 COCOAPODS: 1.5.3

@@ -1,13 +1,13 @@
+
+source 'https://github.com/HTOne/HTSpecs.git'
+
 use_frameworks!
 
 platform :ios, '8.0'
 
 target 'HTSearchBar_Example' do
-  pod 'HTSearchBar', :path => '../'
-
-  target 'HTSearchBar_Tests' do
-    inherit! :search_paths
-
     
-  end
+  pod 'HTSearchBar', '~> 0.1.0'
+  
+  
 end
