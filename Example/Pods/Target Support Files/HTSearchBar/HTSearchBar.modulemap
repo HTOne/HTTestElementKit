@@ -1,0 +1,6 @@
+framework module HTSearchBar {
+  umbrella header "HTSearchBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

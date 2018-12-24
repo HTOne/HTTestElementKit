@@ -1,0 +1,16 @@
+PODS:
+  - HTSearchBar (0.1.0)
+
+DEPENDENCIES:
+  - HTSearchBar (from `../`)
+
+EXTERNAL SOURCES:
+  HTSearchBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HTSearchBar: ef037d88571be6ad7bad133da25e626f491aa284
+
+PODFILE CHECKSUM: 200b8cca32c53ee482bb8b7c17796ab0158f1fa8
+
+COCOAPODS: 1.5.3

@@ -39,7 +39,7 @@
 /* Begin PBXFileReference section */
 		2CE065A0B7C63776B7B60FCE /* Pods_HTSearchBar_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HTSearchBar_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B9E1635344FAF7990BF1190 /* Pods-HTSearchBar_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HTSearchBar_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HTSearchBar_Tests/Pods-HTSearchBar_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		4C1B2E15F0116AE181D3A5D7 /* HTSearchBar.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = HTSearchBar.podspec; path = ../HTSearchBar.podspec; sourceTree = "<group>"; };
+		4C1B2E15F0116AE181D3A5D7 /* HTSearchBar.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HTSearchBar.podspec; path = ../HTSearchBar.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6003F58A195388D20070C39A /* HTSearchBar_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HTSearchBar_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -60,11 +60,11 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		749BD6970D1AAA0D2B67E720 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		749BD6970D1AAA0D2B67E720 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8E854E9938871CF77CC7C199 /* Pods-HTSearchBar_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HTSearchBar_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HTSearchBar_Example/Pods-HTSearchBar_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		9538D580E6D1D7E02EA47495 /* Pods-HTSearchBar_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HTSearchBar_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-HTSearchBar_Tests/Pods-HTSearchBar_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		C18BC66BA792249BE684591F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		C18BC66BA792249BE684591F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		CF717A8B86BC216530A50210 /* Pods_HTSearchBar_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HTSearchBar_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1E0A7057D3227AED545986C /* Pods-HTSearchBar_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HTSearchBar_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-HTSearchBar_Example/Pods-HTSearchBar_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */

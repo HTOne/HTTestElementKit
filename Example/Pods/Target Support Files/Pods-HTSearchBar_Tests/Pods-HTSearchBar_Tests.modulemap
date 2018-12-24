@@ -1,0 +1,6 @@
+framework module Pods_HTSearchBar_Tests {
+  umbrella header "Pods-HTSearchBar_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
